@@ -1,6 +1,6 @@
 <p align="center">
-# Michael Wolf 
-# Data Visualizer &#183; Teacher &#183; Technologist
+  <H1>Michael Wolf</H1>
+  <h2>Data Visualizer &#183; Teacher &#183; Technologist</h2>
 </p>
 
 ----
@@ -29,7 +29,10 @@
 ----
 # Code Repositories
 [Machine Learning - Model Creation for Amazon Recommendations](https://github.com/wolfm2/jobin/tree/master/minibook/amazon.2.1)
+
 [Machine Learning - Image Recognition](https://github.com/wolfm2/jobin/tree/master/minibook/plane_test)
+
 [Pedagogy - Code Snippets for OpenFrameworks](https://github.com/wolfm2/oF_Examples)
+
 [Research - Contributions to Daniel Sauter's Ketai Processing/Android Library](https://github.com/wolfm2/ketai)
 
