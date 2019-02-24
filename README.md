@@ -1,5 +1,10 @@
+<style type="text/css">
+h1 {color:red;}
+p {color:blue;}
+</style>
 <p align="center">
-  <b style="font-size:2rem;">Michael Wolf</b>
+  <b style="color:blue;">Michael Wolf</b>
+  <br>
   <b>Data Visualizer &#183; Teacher &#183; Technologist</b>
 </p>
 
