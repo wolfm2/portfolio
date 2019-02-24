@@ -1,14 +1,17 @@
-<style type="text/css">
-h1 {color:red;}
-p {color:blue;}
-</style>
+<!---
 <p align="center">
   <b style="color:blue;">Michael Wolf</b>
   <br>
   <b>Data Visualizer &#183; Teacher &#183; Technologist</b>
 </p>
+-->
+
+<p align="center">
+  <img src="img/title.png">
+</p>
 
 ----
+
 ## Risks to Nigerian Women - UNDP SDG Advocacy
 
 [![](img/NigeriaRisks0.png)](https://wolfm2.github.io/major-studio-1/a3/)
