@@ -1,6 +1,6 @@
 <p align="center">
-  <H1>Michael Wolf</H1>
-  <h2>Data Visualizer &#183; Teacher &#183; Technologist</h2>
+  <b style="font-size:2rem;">Michael Wolf</b>
+  <b>Data Visualizer &#183; Teacher &#183; Technologist</b>
 </p>
 
 ----
